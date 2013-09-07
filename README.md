@@ -35,7 +35,7 @@ Ported by
 
 Fundead, at [http://pixelpegasus.cloudns.org](http://pixelpegasus.cloudns.org).
 
-Original code courtesy of Aurelien Ribon at [http://www.aurelienribon.com/blog/projects/physics-body-editor/](http://www.aurelienribon.com/blog/projects/physics-body-editor/)
+Original code courtesy of Aurelien Ribon at [http://www.aurelienribon.com](http://www.aurelienribon.com)
 
 License
 --------
