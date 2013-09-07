@@ -33,7 +33,9 @@ The second parameter in attachFixture() is the name of the body to load, and wil
 Ported by
 ---------
 
-Fundead, at [http://pixelpegasus.cloudns.org](http://pixelpegasus.cloudns.org)
+Fundead, at [http://pixelpegasus.cloudns.org](http://pixelpegasus.cloudns.org).
+
+Original code courtesy of Aurelien Ribon at [http://www.aurelienribon.com/blog/projects/physics-body-editor/](http://www.aurelienribon.com/blog/projects/physics-body-editor/)
 
 License
 --------
